@@ -21,7 +21,7 @@ Les RBM comportent des unités cachées et visibles et consiste en une matrice d
 
 Chaque élément de poids $w_{i,j})$ de la matrice est associé à la connexion entre l'unité visible (d'entrée) $x_{i}$ et l'unité cachée $h_{j}$. En outre, il existe des poids de biais (décalages) $a_{i}$ pour $x_{i}$ et $b_{j}$ pour $h_{j}$, cela est illustré dans le figure suivante : 
 
-![RBM.png](attachment:RBM.png)
+![RBM](https://user-images.githubusercontent.com/90097422/204649320-cd61c151-bb3c-447d-918c-5903edb762a3.png)
 
 Compte tenu des poids et des biais, l'énergie d'une configuration (paire de vecteurs booléens) (x, h) est définie comme suit :  
 
@@ -81,4 +81,5 @@ La procédure de base de divergence contrastive en une seule étape pour un seul
 
 Finalement, on cherche a atteindre un minimum de la fonction de perte par des mise a jour successives, comme présenté dans la figure ci-dessous :
 
-![bassin%20of%20attraction.png](attachment:bassin%20of%20attraction.png)
+![bassin of attraction](https://user-images.githubusercontent.com/90097422/204649403-430a4607-308d-4683-967d-a1009eb3683b.png)
+

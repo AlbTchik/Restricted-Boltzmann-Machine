@@ -4,7 +4,7 @@
 <br>
 **Cadre du projet :** Génération de chiffres avec une RBM  
 <br>
-**Mots-clés :** Machine de Boltzmann, Génération d'images, Dataset MINST   
+**Mots-clés :** PyTorch, Machine de Boltzmann, Génération d'images, Dataset MINST   
 
 ## Présentation du projet
 

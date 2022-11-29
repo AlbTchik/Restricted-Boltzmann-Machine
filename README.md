@@ -4,7 +4,7 @@
 <br>
 **Cadre du projet :** Génération de chiffres avec une RBM  
 <br>
-**Mots-clés :** PyTorch, Machine de Boltzmann, Génération d'images, Dataset MINST   
+**Mots-clés :** Machine de Boltzmann, Génération d'images, Dataset MINST   
 
 ## Présentation du projet
 
@@ -83,3 +83,11 @@ Finalement, on cherche a atteindre un minimum de la fonction de perte par des mi
 
 ![bassin of attraction](https://user-images.githubusercontent.com/90097422/204649403-430a4607-308d-4683-967d-a1009eb3683b.png)
 
+### 3) Présentation des résultats
+
+Images originales
+![base images](https://user-images.githubusercontent.com/90097422/204653578-5f0237b8-ffce-471b-a385-9c381c4373da.png)
+
+Images générées par le RBM
+
+![results](https://user-images.githubusercontent.com/90097422/204661959-3be9bd0f-3fad-4ace-98d1-fb3b041f5941.png)
